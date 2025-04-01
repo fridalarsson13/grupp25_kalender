@@ -1,0 +1,134 @@
+
+.To-do{
+    background-color: rgba(0, 255, 255, 0.5);
+    color: black;
+    height: 250px;
+    width: 150px;
+    vertical-align: top;
+    margin-left: 200px;
+    border: none;
+    object-fit: contain;
+    align-items: flex-start;
+    display: flex;
+}
+.monday-button{
+    background-color: rgba(230, 145, 192, 0.3);
+    color: black;
+    align-items: flex-start;
+    border: none;
+    height: 500px;
+    width: 100px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-left: 5px;
+    display: flex;
+}
+.tuesday-button{
+    background-color: rgba(230, 145, 192, 0.3);
+    color: black;
+    border: none;
+    height: 500px;
+    width: 100px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-left: 5px;
+    display: flex;
+}
+.wednesday-button{
+    background-color: rgba(230, 145, 192, 0.3);
+    color: black;
+    border: none;
+    height: 500px;
+    width: 100px;
+    cursor: pointer;
+    margin-left: 5px;
+    vertical-align: top;
+    display: flex;
+}
+.thursday-button{
+    background-color: rgba(230, 145, 192, 0.3);
+    color: black;
+    border: none;
+    height: 500px;
+    width: 100px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-left: 5px;
+    display: flex;
+}
+.friday-button{
+    background-color: rgba(230, 145, 192, 0.3);
+    color: black;
+    border: none;
+    height: 500px;
+    width: 100px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-left: 5px;
+    display: flex;
+}
+.saturday-button{
+    background-color: rgba(230, 145, 192, 0.3);
+    border: none;
+    height: 500px;
+    width: 100px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-left: 5px;
+    display: flex;
+    color: black;
+}
+.sunday-button{
+    background-color: rgba(230, 145, 192, 0.3);
+    color: black;
+    border: none;
+    height: 500px;
+    width: 100px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-left: 5px;
+    display: flex;
+    text-align: center;
+}
+.search-bar{
+    display: block;
+    margin-left: 100px;
+    vertical-align: top;
+}
+
+.day-button, .year-button, .month-button, .week-button{
+    vertical-align: top;
+    margin-top: 10px;
+    width: 100px;
+    margin-left: 10px;
+}
+.day-button{
+    margin-left: 450px;
+}
+.inställningar{
+    height: 250px;
+    width: 150px;
+    vertical-align: top;
+    margin-left: 200px;
+    border: none;
+    object-fit: contain;
+    display: flex;
+}
+.sparade-button{
+    height: 500px;
+    width: 150px;
+    background-color: #b21ff8;
+    color: aliceblue;
+    margin-left: 5px;
+    display: flex;
+}
+.container{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 10px;
+}
+.container-top{
+    display: flex;
+    align-items: flex-start;
+    vertical-align: top;
+}
